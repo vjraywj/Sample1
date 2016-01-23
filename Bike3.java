@@ -1,5 +1,5 @@
 class Vehicle{  
-	int speed=60000;
+	int speed=70000;
 	static final int gear;
 	Vehicle() {
 		System.out.println("Inside parent class");
